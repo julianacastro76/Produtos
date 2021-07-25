@@ -10,7 +10,7 @@ Antes de iniciar o projeto, você precisa ter instalado em sua maquina o Node.js
 
 # Iniciar projeto
 Para iniciar o projeto, você deve digitar no seu terminal:
-yarn start ou npm start
+- yarn start ou npm start
 
 Para visualizar o projeto, digite no seu navegador de sua escolha:
 http://localhost:3000
@@ -26,7 +26,7 @@ Projeto em andamento...
 - Node.Js
 
 
-# Lincença
+# Licença
 MIT
 
-Este projeto está sob a linceça MIT.
+Este projeto está sob a licença MIT.
