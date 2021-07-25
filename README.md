@@ -25,3 +25,8 @@ Projeto em andamento...
 - Javascript
 - Node.Js
 
+
+# Lincença
+MIT
+
+Este projeto está sob a linceça MIT.
