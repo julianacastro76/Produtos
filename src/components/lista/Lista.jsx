@@ -1,7 +1,6 @@
 import React from 'react'
 import './Lista.css'
 
-import Cadastro from '../cadastro/Cadastro'
 
 export default function(){
 
